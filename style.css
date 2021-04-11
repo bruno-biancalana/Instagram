@@ -10,7 +10,7 @@
 body {
     width: 100%;
     min-height: 100vh;
-    background-color: rgb(243, 243, 243);
+    background-color: #ffffff;
     margin: 0;
     padding: 0;
     display: flex;
@@ -137,10 +137,6 @@ body {
 }
 
 @media (max-width: 650px) {
-    body {
-        background-color: #ffffff;
-    }
-
     .instagram-wrapper {
         width: 90%;
     }
